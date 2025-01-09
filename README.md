@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Dhruv Bagga, an aspiring Computer Engineer completing my bachelor's at McMaster University.
+
+Feel free to explore my work on my [portfolio website](https://dhruvbagga47.github.io/Personal-Portfolio/).
 
 <!--
 **DhruvBagga47/DhruvBagga47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
