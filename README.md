@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Dhruv Bagga, an aspiring Computer Engineer completing my bachelor's at McMaster University.
 
-Feel free to explore my work on my [portfolio website](https://dhruvbagga47.github.io/Personal-Portfolio/).
+Feel free to explore my work on my [portfolio website](https://dhruvbagga47.github.io/Personal-Portfolio/). (currently work in progress)
 
 # 💻 Coding Languages:
 <p align="center">
